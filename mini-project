@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title># # A W S # #</title>
+</head>
+<body>
+<h1><font face="Bed rock"> WELCOME TO <i><q><abbr title="Amazon Web Services"><a href="https://en.wikipedia.org/wiki/Amazon_Web_Services"> AWS </abbr></q></i></font></h1></a>
+
+<font size="5"><pre>
+
+AWS provides on-demand cloud computing platforms and <a href="https://www.google.com/search?q=api&rlz=1C1YTUH_enIN1044IN1044&oq=api&aqs=chrome..69i57j0i67i131i433i650j0i67i650j0i67i131i433i650j46i67i131i199i433i465i650j0i67i650l2j0i131i433i512l2j0i67i650.3315j0j7&sourceid=chrome&ie=UTF-8">APIs</a> to individuals, companies, and governments, on a metered, pay-as-you-go basis. 
+
+Often times, clients will use this in combination with <a href="https://www.google.com/search?q=auto+scaling&rlz=1C1YTUH_enIN1044IN1044&oq=auto+scaling&aqs=chrome..69i57j0i512j0i20i263i512j0i512l7.10398j0j7&sourceid=chrome&ie=UTF-8">Autoscaling</a>.
+
+These cloud computing web services provide various services related to <a href="https://www.google.com/search?q=networking&rlz=1C1YTUH_enIN1044IN1044&sxsrf=APwXEdd41mPexCZvNb7ZqHnicVypWtd6eQ%3A1683826259035&ei=UyZdZMTmAffh4-EP_MWMiAI&ved=0ahUKEwiE3KHQ5e3-AhX38DgGHfwiAyEQ4dUDCBA&uact=5&oq=networking&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzILCAAQgAQQsQMQgwEyCggAEIAEEBQQhwIyCAgAEIAEELEDMgsIABCABBCxAxCDATILCAAQgAQQsQMQgwEyBQgAEIAEMggIABCABBCxAzILCAAQgAQQsQMQgwEyBQgAEIAEMgUIABCABDoKCAAQRxDWBBCwAzoKCAAQigUQsAMQQzoECAAQR0oECEEYAFCOBFjJC2DBDWgBcAJ4AIABbIgBtgKSAQMxLjKYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp">networking</a>, <a href="https://aws.amazon.com/products/compute/">compute</a>, <a href="https://aws.amazon.com/products/storage/">storage</a>, <a href="https://aws.amazon.com/iot/">IoT</a> and other processing capacity, as 
+well as software tools via AWS server farms. 
+
+This frees clients from managing, <a href="https://aws.amazon.com/autoscaling/">scaling</a>, and patching hardware and operating systems. 
+
+One of the foundational services is <a href="https://aws.amazon.com/ec2/">Amazon EC2</a>.
+
+EC2 allows users to have at their disposal a virtual cluster of computers, with extremely <a href="https://docs.aws.amazon.com/whitepapers/latest/real-time-communication-on-aws/high-availability-and-scalability-on-aws.html">high availability</a>.
+
+Which can be interacted with over the internet via REST APIs, a <a href="https://aws.amazon.com/cli/">CLI</a> or the AWS console. 
+
+
+=> To know more about AWS <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services">Click Here</a>
+
+</pre></font>
+
+</body>
+</html>
